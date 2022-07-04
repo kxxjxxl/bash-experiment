@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Author: Alexander Epstein https://github.com/alexanderepstein
+# Author: Emad Salim
 
 currentVersion="1.23.0"
 configuredClient=""
@@ -137,7 +137,7 @@ printMovieInfo()
 
 update()
 {
-  # Author: Alexander Epstein https://github.com/alexanderepstein
+  # Author: Emad Salim
   # Update utility version 2.2.0
   # To test the tool enter in the defualt values that are in the examples for each variable
   repositoryName="Bash-Snippets" #Name of repostiory to be updated ex. Sandman-Lite
